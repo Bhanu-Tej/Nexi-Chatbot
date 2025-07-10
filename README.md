@@ -24,8 +24,6 @@ pip install -r requirements.txt
 python nexi.py
 ```
 
-Type 'bye' anytime to end the chat.
 
----
 
 Made with ❤️ by Bhanu Tej
